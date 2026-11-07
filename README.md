@@ -104,24 +104,24 @@ Estudiante de **Licenciatura en Informática (UAS)** enfocado en desarrollo Full
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://placehold.co/480x340/161b22/8b949e?text=AwsAcademy" alt="AWS Academy Cloud Foundations" width="100%"/><br/>
+      <img src="https://Certificados/480x340/161b22/8b949e?text=AwsAcademy" alt="AWS Academy Cloud Foundations" width="100%"/><br/>
       <b>AWS Academy Graduate – Cloud Foundations</b><br/>
       <sub>AWS Academy · Noviembre 2025</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://placehold.co/480x340/161b22/8b949e?text=POO_Slim" alt="Programador Orientado a Objetos" width="100%"/><br/>
+      <img src="https://Certificados/480x340/161b22/8b949e?text=POO_Slim" alt="Programador Orientado a Objetos" width="100%"/><br/>
       <b>Programador (Orientado a Objetos) · 82 h</b><br/>
       <sub>Fundación Carlos Slim · Noviembre 2025</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://placehold.co/480x340/161b22/8b949e?text=Cisco_Networking_Academy" alt="Introduction to Cybersecurity" width="100%"/><br/>
+      <img src="https://Certificados/480x340/161b22/8b949e?text=Cisco_Networking_Academy" alt="Introduction to Cybersecurity" width="100%"/><br/>
       <b>Introduction to Cybersecurity</b><br/>
       <sub>Cisco Networking Academy · Junio 2025</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://placehold.co/480x340/161b22/8b949e?text=Fundamento_ChatGPT_Santander" alt="Fundamentos de ChatGPT" width="100%"/><br/>
+      <img src="https://Certificados/480x340/161b22/8b949e?text=Fundamento_ChatGPT_Santander" alt="Fundamentos de ChatGPT" width="100%"/><br/>
       <b>Fundamentos de ChatGPT · 8 h</b><br/>
       <sub>Santander Open Academy · Junio 2025</sub>
     </td>
