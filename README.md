@@ -2,11 +2,11 @@
 
 # 👋 Hola, soy Miguel Angel Palafox Espinoza
 
-### Desarrollador Web Junior · Full Stack
+### Desarrollador Junior · Full Stack
 
 Estudiante de **Licenciatura en Informática (UAS)** enfocado en desarrollo Full Stack, con formación práctica en arquitecturas Cloud (AWS) y programación orientada a objetos. Destaco por mi rápida adaptación, disciplina y resolución lógica de problemas.
 
-🔎 **Busco una oportunidad como Practicante / Desarrollador Web Junior**
+🔎 **Busco una oportunidad como Practicante**
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-miguelpalafox17.github.io-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miguelpalafox17.github.io/Portafolio-Palafox/)
 [![Email](https://img.shields.io/badge/Email-palafoxespinozamiguelangel.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palafoxespinozamiguelangel.dev@gmail.com)
@@ -73,6 +73,9 @@ Estudiante de **Licenciatura en Informática (UAS)** enfocado en desarrollo Full
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width='32' height='32' alt='Kotlin'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL"/>          
 
 🔗 [Repositorio](#)
 
@@ -87,6 +90,7 @@ Estudiante de **Licenciatura en Informática (UAS)** enfocado en desarrollo Full
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git"/>
 
 🔗 [Repositorio](#) · [Demo](#)
 
@@ -104,24 +108,24 @@ Estudiante de **Licenciatura en Informática (UAS)** enfocado en desarrollo Full
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://Certificados/480x340/161b22/8b949e?text=AwsAcademy.png" alt="AWS Academy Cloud Foundations" width="100%"/><br/>
+      <img src="./Certificados/Aws_Academy.png" alt="AWS Academy Cloud Foundations" width="100%"/><br/>
       <b>AWS Academy Graduate – Cloud Foundations</b><br/>
       <sub>AWS Academy · Noviembre 2025</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://Certificados/480x340/161b22/8b949e?text=POO_Slim.png" alt="Programador Orientado a Objetos" width="100%"/><br/>
+      <img src="./Certificados/POO_Slim.png" alt="Programador Orientado a Objetos" width="100%"/><br/>
       <b>Programador (Orientado a Objetos) · 82 h</b><br/>
       <sub>Fundación Carlos Slim · Noviembre 2025</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://Certificados/480x340/161b22/8b949e?text=Cisco_Networking_Academy.png" alt="Introduction to Cybersecurity" width="100%"/><br/>
+      <img src="./Certificados/CIsco_Networking_Academy.png" alt="Introduction to Cybersecurity" width="100%"/><br/>
       <b>Introduction to Cybersecurity</b><br/>
       <sub>Cisco Networking Academy · Junio 2025</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://Certificados/480x340/161b22/8b949e?text=Fundamento_ChatGPT_Santander.png" alt="Fundamentos de ChatGPT" width="100%"/><br/>
+      <img src="./Certificados/Fundamento_ChatGPT_Santander.png" alt="Fundamentos de ChatGPT" width="100%"/><br/>
       <b>Fundamentos de ChatGPT · 8 h</b><br/>
       <sub>Santander Open Academy · Junio 2025</sub>
     </td>
@@ -129,9 +133,8 @@ Estudiante de **Licenciatura en Informática (UAS)** enfocado en desarrollo Full
 </table>
 ## 📫 Contacto
 
-- 📧 [tamazuladurango1707@gmail.com](mailto:tamazuladurango1707@gmail.com)
+- 📧 [palafoxespinozamiguelangel.dev@gmail.com](mailto:palafoxespinozamiguelangel.dev@gmail.com)
 - 🌐 [Portafolio](https://miguelpalafox17.github.io/Portafolio-Palafox/)
-- 💼 LinkedIn: *(agrega tu enlace aquí)*
 
 <div align="center">
 
