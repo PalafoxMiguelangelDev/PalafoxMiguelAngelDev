@@ -8,7 +8,7 @@ Estudiante de **Licenciatura en Informática (UAS)** enfocado en desarrollo Full
 
 🔎 **Busco una oportunidad como Practicante**
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-miguelpalafox17.github.io-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miguelpalafox17.github.io/Portafolio-Palafox/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-miguelpalafox17.github.io-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://palafoxmiguelangeldev.github.io/Portafolio-Trabajo/)
 [![Email](https://img.shields.io/badge/Email-palafoxespinozamiguelangel.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palafoxespinozamiguelangel.dev@gmail.com)
 
 </div>
